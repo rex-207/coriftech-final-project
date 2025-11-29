@@ -69,3 +69,4 @@ coriftech_final_project/
 │── password_checker.sh
 └── README.txt
 
+![alt text](screenshots/Screenshot_2025-11-29_15_51_18.png)
