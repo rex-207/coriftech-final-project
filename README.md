@@ -1,2 +1,2 @@
 # coriftech-final-project
-final projecy
+final project
